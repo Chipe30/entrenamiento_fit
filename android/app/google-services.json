@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "101113234957",
+    "project_id": "entrenamiento-fit",
+    "storage_bucket": "entrenamiento-fit.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101113234957:android:2b7d4415c42578185af744",
+        "android_client_info": {
+          "package_name": "com.example.entrenamiento_fit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQrTox4JEleF28CCdQb6TA2Pnd92-9p_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
